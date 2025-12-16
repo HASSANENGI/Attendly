@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Secrets
+.env
+Pinecone api key.txt
+
+# Models (optional if using LFS; uncomment to ignore)
+# models/*.pt
